@@ -1,0 +1,5 @@
+version: '3'
+services:
+  mpc:
+    build: .
+    command: node examples/ecdsa.js
