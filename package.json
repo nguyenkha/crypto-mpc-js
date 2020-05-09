@@ -1,0 +1,18 @@
+{
+  "name": "crypto-mpc",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Kha Do <donguyenkha@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ffi": "^2.3.0",
+    "ref": "^1.3.5"
+  },
+  "devDependencies": {
+    "elliptic": "^6.5.2",
+    "tweetnacl": "^1.0.3"
+  }
+}
