@@ -8,3 +8,8 @@ npm install crypto-mpc
 ```
 yarn add crypto-mpc
 ```
+
+## Quick run
+```
+docker-compose up
+```
