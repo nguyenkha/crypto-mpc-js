@@ -1,9 +1,10 @@
 {
   "name": "crypto-mpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Kha Do <donguyenkha@gmail.com>",
-  "license": "GPL-3.0-or-later",
+  "repository": "nguyenkha/crypto-mpc-js",
+  "license": "GPL-3.0",
   "engines": {
     "node": ">=10.0.0 <11.0.0"
   },
