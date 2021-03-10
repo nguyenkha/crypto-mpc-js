@@ -13,7 +13,7 @@
     "ref-napi": "^2.0.0"
   },
   "devDependencies": {
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.4",
     "tweetnacl": "^1.0.3"
   }
 }
