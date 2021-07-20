@@ -1,6 +1,6 @@
 {
   "name": "crypto-mpc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "author": "Kha Do <donguyenkha@gmail.com>",
   "repository": "nguyenkha/crypto-mpc-js",
